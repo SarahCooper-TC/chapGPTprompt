@@ -1,1 +1,1 @@
-# chapGPTprompt
+# chatGPTprompt
